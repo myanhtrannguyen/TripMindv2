@@ -1,0 +1,343 @@
+{
+  "PictureModel": {
+    "Id": 0,
+    "Size": null,
+    "ImageUrl": "https://down-vn.img.susercontent.com/vn-11134513-820l4-mi774p2setc657@resize_ss576x330",
+    "FullSizeImageUrl": "https://down-vn.img.susercontent.com/vn-11134513-820l4-mi774p2setc657",
+    "Title": "Pizza Hut - Xuân Thủy",
+    "AlternateText": "Pizza Hut - Xuân Thủy",
+    "TotalLikes": 0,
+    "OwnerFullName": null,
+    "OwnerUserName": null,
+    "OwnerID": null,
+    "IsExisted": false,
+    "Group": 1,
+    "CreatedOn": null,
+    "MediaType": 0,
+    "Url": null,
+    "BgColor": null,
+    "PhotoDetailUrl": null
+  },
+  "BackgroundImageUrl": null,
+  "HasValidContract": false,
+  "TableNowApiEnable": true,
+  "RestaurantID": 35998,
+  "Name": "Pizza Hut - Xuân Thủy",
+  "Name_EN": null,
+  "NameUrl": null,
+  "NameUrl_EN": null,
+  "Address": "167 Xuân Thủy, P. Dịch Vọng Hậu",
+  "CityID": 218,
+  "City": "Hà Nội",
+  "DistrictID": 21,
+  "District": "Quận Cầu Giấy",
+  "AreaID": null,
+  "Area": null,
+  "ImageURL": null,
+  "Phone": null,
+  "Website": "",
+  "PriceMin": 40000.0,
+  "PriceMax": 165000.0,
+  "Latitude": 21.0363919,
+  "Longtitude": 105.7839716,
+  "IsActive": false,
+  "IsDelete": false,
+  "TotalReview": 159,
+  "TotalView": 24182,
+  "TotalViewFormat": "24.2K",
+  "RestaurantStatus": 2,
+  "MetaTitle": "Pizza Hut - Xuân Thủy",
+  "MetaKeywords": "Pizza Hut, Pizza Hut Indochina, Pizza Hut Đường Xuân Thuỷ, Pizza Hut Cầu Giấy, Pizza Hut Hà Nội, piza, fast food",
+  "MetaKeywords_EN": null,
+  "MetaDescription": "Pizza Hut là thương hiệu nổi tiếng mang phong cách ẩm thực của Mỹ với các loại bánh pizza được chế biến đa dạng có nhiều hương vị phong phú khác nhau.",
+  "MetaDescription_EN": null,
+  "BackgroundUrl": null,
+  "SpecialDesc": null,
+  "TotalFavourite": 51,
+  "TotalWanted": 97,
+  "TotalPictures": 597,
+  "DistrictUrlRewiteName": "quan-cau-giay",
+  "AreaUrlRewiteName": null,
+  "MainCategoryRewriteName": "nha-hang",
+  "TotalCheckedIn": 33,
+  "AvgPointList": [
+    {
+      "Label": "Vị trí",
+      "Point": 7.6,
+      "DisplayOrder": 1
+    },
+    {
+      "Label": "Không gian",
+      "Point": 7.33,
+      "DisplayOrder": 5
+    },
+    {
+      "Label": "Chất lượng",
+      "Point": 7.03,
+      "DisplayOrder": 3
+    },
+    {
+      "Label": "Phục vụ",
+      "Point": 6.84,
+      "DisplayOrder": 4
+    },
+    {
+      "Label": "Giá cả",
+      "Point": 6.38,
+      "DisplayOrder": 2
+    }
+  ],
+  "MicrositeUrl": "/ha-noi/pizza-hut-xuan-thuy",
+  "RestaurantUrl": "ha-noi/pizza-hut-xuan-thuy",
+  "Cuisines": [
+    {
+      "UrlRewriteName": "quoc-te",
+      "Name": "Quốc tế",
+      "NameEn": "International",
+      "DisplayOrder": 0,
+      "Flag": 0,
+      "ParentID": 0,
+      "Icon": "foody-50-quocte-635950392182702235.png",
+      "Id": 50
+    }
+  ],
+  "PointConfig": {
+    "Tier": 3,
+    "Description": "Medium Brands",
+    "ReviewMaxPoints": 3.0,
+    "PhotoMaxPoints": 1.0,
+    "PhotoRatioBaseReview": 1.0,
+    "CommentMaxPoints": 0.25,
+    "CommentRatioBaseReview": 1.0,
+    "LikeMaxPoints": 0.0,
+    "LikeRatioBaseReview": 1.0,
+    "VideoMaxPoints": 5.0,
+    "Id": 3
+  },
+  "CssSuffix": "",
+  "LanguageId": 1,
+  "BrandUrlRewriteName": "pizza-hut-ha-noi",
+  "BrandName": "Pizza Hut Hà Nội",
+  "BrandTotalRestaurants": 48,
+  "TotalLists": 272,
+  "IsBooking": false,
+  "IsSafety": false,
+  "ReservationId": null,
+  "ResUrlRewrite": "pizza-hut-xuan-thuy",
+  "HasMemberCard": false,
+  "MemberCardPolicy": null,
+  "MinDiscount": null,
+  "MaxDiscount": null,
+  "TimeRanges": [
+    {
+      "StartTime24h": "07:00",
+      "EndTime24h": "22:00",
+      "StartTime": "07:00 AM",
+      "EndTime": "10:00 PM",
+      "Title": " ",
+      "RestaurantID": 35998,
+      "RangeID": 0,
+      "IsDayOff": false,
+      "CustomDate": null,
+      "Id": 1454105
+    }
+  ],
+  "BookingDiscount": 0,
+  "MasterCategoryId": 1,
+  "LstDeliveryService": [],
+  "IsToolPremium": false,
+  "MobileImageUrl": "https://down-vn.img.susercontent.com/vn-11134513-820l4-mi774p2setc657@resize_ss640x400",
+  "LstTargetAudience": [
+    {
+      "Id": 2,
+      "Name": "Cặp đôi",
+      "Name_En": "Couple",
+      "DisplayOrder": 2,
+      "Published": true
+    },
+    {
+      "Id": 3,
+      "Name": "Gia đình",
+      "Name_En": "Family",
+      "DisplayOrder": 3,
+      "Published": true
+    },
+    {
+      "Id": 5,
+      "Name": "Giới văn phòng",
+      "Name_En": "Office workers",
+      "DisplayOrder": 5,
+      "Published": true
+    }
+  ],
+  "TotalSavedListsCurrentUser": 0,
+  "HasThitCayCategory": false,
+  "IsDisableReview": false,
+  "LstCategory": [
+    {
+      "AsciiName": "nha hang",
+      "UrlRewriteName": "nha-hang",
+      "NameEn": "Restaurant",
+      "Icon": "foody-01-restoran-635950389575416940.png",
+      "IconClass": "ico_res",
+      "CategoryGroupKey": "food",
+      "RestaurantCount": 0,
+      "Name": "Nhà hàng",
+      "Id": 1
+    }
+  ],
+  "IsInactive": true,
+  "IsAlreadyCreated": false,
+  "IsDeliveryNow": true,
+  "StickerStatus": 0,
+  "Tip": "",
+  "MobileTip": null,
+  "ListBankCards": [],
+  "SpecialAttr": 0,
+  "AvgRating": 7.036,
+  "Services": [],
+  "Location": "ha-noi",
+  "ReviewOption": 0,
+  "SyncSheisId": null,
+  "ECardInfoModel": {
+    "MemberCardLevels": {
+      "Name": null,
+      "Note": null,
+      "Levers": [],
+      "StartDate": null,
+      "EndDate": null
+    },
+    "RestaurantCardLevels": [
+      {
+        "Name": "Standard",
+        "Content": "Không áp dụng",
+        "DiscountPercent": 0,
+        "ImgUrl": "/style/images/icons/ecard/Standard.png"
+      },
+      {
+        "Name": "Gold",
+        "Content": "Không áp dụng",
+        "DiscountPercent": 0,
+        "ImgUrl": "/style/images/icons/ecard/Gold.png"
+      },
+      {
+        "Name": "Premier",
+        "Content": "Không áp dụng",
+        "DiscountPercent": 0,
+        "ImgUrl": "/style/images/icons/ecard/Premier.png"
+      }
+    ]
+  },
+  "ListECoupons": [],
+  "TableNowUrl": "https://shopeefood.vn/ha-noi/table/pizza-hut-xuan-thuy",
+  "AvatarVideo": {
+    "Id": 0,
+    "Title": null,
+    "TitleUrl": null,
+    "Description": null,
+    "Source": null,
+    "Avatar": null,
+    "Type": 0,
+    "SourceType": null,
+    "Width": null,
+    "Height": null,
+    "AutoPlay": null,
+    "Url": null,
+    "UrlEmbed": null,
+    "IsFeatured": false,
+    "Length": null,
+    "IsWatched": false,
+    "RestaurantImgUrl": null,
+    "IsMuted": false
+  },
+  "OpeningTime": [
+    {
+      "Id": 279622,
+      "RestaurantId": 35998,
+      "DayOfWeek": 6,
+      "CustomDate": null,
+      "TimeOpen": {
+        "Hours": 7,
+        "Minutes": 0,
+        "Seconds": 0,
+        "Milliseconds": 0,
+        "Ticks": 252000000000,
+        "Days": 0,
+        "TotalDays": 0.29166666666666663,
+        "TotalHours": 7,
+        "TotalMilliseconds": 25200000,
+        "TotalMinutes": 420,
+        "TotalSeconds": 25200
+      },
+      "TimeClose": {
+        "Hours": 22,
+        "Minutes": 0,
+        "Seconds": 0,
+        "Milliseconds": 0,
+        "Ticks": 792000000000,
+        "Days": 0,
+        "TotalDays": 0.9166666666666666,
+        "TotalHours": 22,
+        "TotalMilliseconds": 79200000,
+        "TotalMinutes": 1320,
+        "TotalSeconds": 79200
+      },
+      "IsDayOff": false,
+      "DisplayOrder": 0,
+      "TimeOpenHour": 0,
+      "TimeOpenMinute": 0,
+      "TimeCloseHour": 0,
+      "TimeCloseMinute": 0,
+      "DayOfWeekName": null,
+      "Title": "",
+      "TitleEn": null
+    }
+  ],
+  "Floor": {
+    "Id": 0,
+    "Code": null,
+    "Name": null,
+    "NameEn": null,
+    "Avatar": "https://down-vn.img.susercontent.com/vn-11134259-7r98o-lwwm6n8yj1sr5d@resize_w50",
+    "Color": null,
+    "Description": null,
+    "DescriptionEn": null
+  },
+  "ShortUrlCode": "",
+  "RestaurantCenter": {
+    "Id": 116382,
+    "UrlRewriteName": "iph-xuan-thuy",
+    "Location": "ha-noi",
+    "Url": "/ha-noi/iph-xuan-thuy/center"
+  },
+  "AccessGuide": "",
+  "Properties": [],
+  "Wifi": [
+    {
+      "Id": 25710,
+      "RestaurantId": 35998,
+      "Name": "PHV-IPH",
+      "Password": "19001822",
+      "CreatedOn": "/Date(1499822711577)/",
+      "UserId": 9157719,
+      "UserName": "thuongnguyen4537",
+      "FirstName": null,
+      "LastName": null
+    },
+    {
+      "Id": 9404,
+      "RestaurantId": 35998,
+      "Name": "PHV-IPH",
+      "Password": "19001822",
+      "CreatedOn": "/Date(1451799176280)/",
+      "UserId": 115085,
+      "UserName": "miya.duong",
+      "FirstName": null,
+      "LastName": null
+    }
+  ],
+  "TotalDishes": 0,
+  "IsVerifiedMap": false,
+  "IsSaved": false,
+  "DeliveryId": 16704
+}
