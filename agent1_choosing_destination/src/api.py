@@ -25,13 +25,13 @@ PROVINCE_STATS = None
 AGENT_2_URL = "http://localhost:8000/ranking"
 AGENT_3_URL = "http://localhost:9000/optimize"
 
-TOGETHER_CLIENT = Together(api_key="tgp_v1_UW0sLE3au_46TXWs51t_g7VNODLRjPFzb8BTVPMn9yQ")
+TOGETHER_CLIENT = Together(api_key="YOUR_TOGETHER_API_KEY_HERE")
 
 def load_system():
     global MODEL, ASSETS, WORD2IDX, PROVINCE_STATS
     try:
         logger.info(f"Khởi tạo hệ thống trên thiết bị: {DEVICE}...")
-        weights_path = "/Users/trannguyenmyanh/Documents/TripMind/agent1_choosing_destination/weights"
+        weights_path = "TripMind/agent1_choosing_destination/weights"
         
         with open(os.path.join(weights_path, "assets.pkl"), "rb") as f:
             ASSETS = pickle.load(f)
